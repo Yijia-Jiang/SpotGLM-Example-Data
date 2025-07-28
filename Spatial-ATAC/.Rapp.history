@@ -1,0 +1,7 @@
+load("/Users/jiangyij/Documents/GitHub/SpotGLM-Example-Data/Spatial-ATAC/coord.rds")
+load("/Users/jiangyij/Documents/GitHub/SpotGLM-Example-Data/Spatial-ATAC/deconvolution.rds")
+load("/Users/jiangyij/Documents/GitHub/SpotGLM-Example-Data/Spatial-ATAC/region_matrix.rds")
+load("/Users/jiangyij/Documents/GitHub/SpotGLM-Example-Data/Spatial-ATAC/regions.rds")
+load("/Users/jiangyij/Documents/GitHub/SpotGLM-Example-Data/Spatial-ATAC/scores_1.rds")
+load("/Users/jiangyij/Documents/GitHub/SpotGLM-Example-Data/Spatial-ATAC/scores_2.rds")
+load("/Users/jiangyij/Documents/GitHub/SpotGLM-Example-Data/Spatial-ATAC/scores_3.rds")
